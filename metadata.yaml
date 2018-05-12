@@ -1,0 +1,35 @@
+_repo: On-the-SeaboardA-Novel-of-the-Baltic-Islands_44184
+_version: 0.1.0
+alternative_title: I havsbandet. English
+contributor:
+  translator:
+    agent_name: Westergren, Elizabeth Clarke
+    gutenberg_agent_id: '42625'
+    url: http://www.gutenberg.org/2009/agents/42625
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2013-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Baltic Sea Region -- Fiction'
+title: 'On the Seaboard: A Novel of the Baltic Islands'
+url: http://www.gutenberg.org/ebooks/44184
